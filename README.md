@@ -58,25 +58,25 @@ The application is designed to improve productivity by providing a simple and in
 
 ## 📂 Project Structure
 
-TaskFlow/
-│
-├── frontend/
-│ ├── src/
-│ ├── components/
-│ ├── pages/
-│ ├── services/
-│ └── assets/
-│
-├── backend/
-│ ├── controllers/
-│ ├── routes/
-│ ├── models/
-│ ├── middleware/
-│ ├── config/
-│ └── server.js
-│
-├── README.md
-└── package.json
+TaskFlow/<br>
+│<br>
+├── frontend/<br>
+│ ├── src/<br>
+│ ├── components/<br>
+│ ├── pages/<br>
+│ ├── services/<br>
+│ └── assets/<br>
+│<br>
+├── backend/<br>
+│ ├── controllers/<br>
+│ ├── routes/<br>
+│ ├── models/<br>
+│ ├── middleware/<br>
+│ ├── config/<br>
+│ └── server.js<br>
+│<br>
+├── README.md<br>
+└── package.json<br>
 
 ---
 
